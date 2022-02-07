@@ -1,17 +1,17 @@
 # Why did I started helping others?
 
-<div class="flex">
-<img src="https://dwj199mwkel52.cloudfront.net/assets/core/svg/logo-lewagon-5ff5f090209d8d3bf493790d7935822208011748adb83a2fbc6bcaaf05a289ef.svg" class="bg-white rounded-md p-2" />
-<p class="text-gray-100 m-4">Coding bootcamp done ~ end 2017</p>
-</div>
-
-<div class="mt-4">
 <v-clicks>
 
-- I'm good at solving other's problems
-- You learn more than you think from explaining to the others
-- Variety of questions 👉 broader knowledge
-- Used to have a lot of commute time, best way to spend time 🚌
+- be part of the community!
+- get myself a cool memento (you can bookmark questions 🔖)
+- Variety of questions 👉 broader knowledge of Vue/Nuxt/etc...
+- used to have a lot of commute time, best way to spend time 🚌
+- fun to have some achievements, like a cool game!
 
 </v-clicks>
-</div>
+
+<!--
+
+why, to help people (be part of the community), get myself a memento (VLC filling the whole SSD because of some logs on Ubuntu), get more knowledge about Vue itself by getting a lot of various questions, fun to have some achievements to unlock
+
+-->

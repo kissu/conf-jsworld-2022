@@ -9,7 +9,7 @@ preload: false
 
 <div class="flex mt-6">
   <img v-motion :initial="{ x: -200, y: 0, scale: 1, rotate: 0 }" :enter="final"
-    class="top-0 left-0 right-0 bottom-0 h-48 w-48 rounded" src="/images/kissu.jpg"
+    class="top-0 left-0 right-0 bottom-0 h-48 rounded aspect-square" src="/images/kissu.jpg"
     alt="photo of konstantin" />
   <section class="ml-4">
     <p class="!m-0">
@@ -21,9 +21,8 @@ preload: false
     </p>
     <p class="my-2">
       <logos-stackoverflow-icon class="inline mr-2" />
-      <a href="https://stackoverflow.com/users/8816585/kissu">Daily helper on Stackoverflow</a>
-      <p>🎤  Speaking in public places</p>
-      <p>✨ I'm into gaming, I love mech keyboards, tech and DIY nerdy stuff</p>
+      <a href="https://stackoverflow.com/users/8816585/kissu">Helper on Stackoverflow for 400+ days straight</a>
+      <p>✨ Doing my best to help the community of my favorite stack</p>
     </p>
   </section>
 </div>

@@ -1,5 +1,5 @@
 ---
-title: 'How does it feel to help on StackOverflow for a whole year?'
+title: "Being active on Stackoverflow for a whole year, what's my conclusion?"
 theme: seriph
 
 # fonts:
@@ -8,7 +8,7 @@ theme: seriph
 download: true
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: /stack_exchange.png
+background: https://images.pexels.com/photos/1266834/pexels-photo-1266834.jpeg?auto=compress
 # screenshot taken from this page: https://stackexchange.com/sites?view=grid
 
 drawings:
@@ -39,39 +39,15 @@ src: ./slides/about_what.md
 ---
 
 ---
-src: ./slides/how.md
----
-
----
 src: ./slides/why.md
 ---
 
 ---
-src: ./slides/rich_meme.md
+src: ./slides/both_sides.md
 ---
 
 ---
-src: ./slides/so.md
----
-
----
-src: ./slides/so2.md
----
-
----
-src: ./slides/journey.md
----
-
----
-src: ./slides/benefits.md
----
-
----
-src: ./slides/cons.md
----
-
----
-src: ./slides/stats.md
+src: ./slides/how.md
 ---
 
 ---

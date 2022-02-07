@@ -10,7 +10,7 @@
     "@slidev/theme-default": "0.21.0",
     "@slidev/theme-seriph": "0.21.0"
   },
-  "name": "weare21",
+  "name": "jsworld-2022",
   "devDependencies": {
     "playwright-chromium": "^1.15.0"
   }
