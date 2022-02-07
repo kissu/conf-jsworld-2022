@@ -5,7 +5,6 @@
 - be part of the community!
 - get myself a cool memento (you can bookmark questions 🔖)
 - Variety of questions 👉 broader knowledge of Vue/Nuxt/etc...
-- used to have a lot of commute time, best way to spend time 🚌
 - fun to have some achievements, like a cool game!
 
 </v-clicks>

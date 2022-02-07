@@ -75,7 +75,7 @@ reputation: "damn, I cannot do anything on the website!"
 
 [PRIVILEGES explanation], 100 reputation accross all stackexchanges when reached once. Safer to not grant too much privileges to newcomers too!
 
-Cannot ban people with privileges, golden badge in a specific tag is powerful but is only for the duplication too, so yeah... 🤷‍♂️
+Cannot ban people with privileges, speak about TAGS (creation, matter) golden badge in a specific tag is powerful but is only for the duplication too, so yeah... 🤷‍♂️
 
 ---
 opinion-based: "I want to create my own Tesla startup tomorrow, should I use Vue or React?"
